@@ -23,6 +23,7 @@ And yes, I love snowsports.
 - [The Great Filter](https://en.wikipedia.org/wiki/Great_Filter) theory is really, really scary.
 - Will we still use toilet paper in the year 2100.
 - "People are rational thinkers" is the most ludicrous (yet obvious) assumption in economics.
+- Recently bought a [SkyWatcher Classic 150P Dobsonian](https://www.skywatcherusa.com/products/sky-watcher-classic-150p) telescope. Bought it used, best $200 I spent in a while. Something about looking up at the sky gives you a sense of being human. Highly recommend. Plus, your neighbors will appreciate it.
 
 
 ## Favorites
@@ -36,5 +37,6 @@ And yes, I love snowsports.
 - Summer: Mountain Biking - Recent spots are Fujimi Panorama and Fujiten.
 - Winter: Snowboarding
 - All year: Exploring, I put >10,000km on my car purchased 1 year ago.
+- DIY, and making my own furniture. Making things is my form of meditation.
 
 
