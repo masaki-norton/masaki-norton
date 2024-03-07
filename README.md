@@ -1,15 +1,15 @@
 ### Hi, I'm Masaki! ✌️
 
 I'm an aspiring Data Scientist, interested in all things AI.\
-Actually, I'm interested in basically anything. I love to learn, above all else!\
+Actually, I'm interested in basically anything. I love to learn, above all else!
 
-Looking to ride the Robotics x AI wave. This, in my opinion, is the next big step.\
+Looking to ride the Robotics x AI wave. This, in my opinion, is the next big step.
 
 If you're looking to get in contact, please reach out on [LinkedIn](https://www.linkedin.com/in/masaki-norton/) or from masaki dot norton at gmail.
 
 ## About Me
 Born in Japan, raised in the US. Thanks to my parents, I can communicate fluently in both English and Japanese.\
-Tokyo is my home now🗼\
+Tokyo is my home now🗼
 
 Before Tokyo, I lived in Niseko Hokkaido, selling software to hotels. I also looked after the company financials.\
 And yes, I love snowsports.
