@@ -35,10 +35,10 @@ And yes, I love snowsports.
 - Looking through Kaggle Grand Masters' notebooks and literally copying them, line by line. This is great practice in my opinion. It's the same way you learn piano or copywriting. Learn from the masters first, then create your own.
 
 ### 🤔 Some recent thoughts / Questions I ask myself these days (updated periodically)
-- Where is humanity currently, in our "tech-tree"? Where are we heavily developed? Where are we lacking? Compared to "average"? We only have a sample size of one, but I think about this one a lot.
+- Behind (almost) every product, there is a marketing person out there bending reality.
+- Where is humans currently, in our "tech-tree"? Where are we heavily developed? Where are we lacking? Compared to "average"? We only have a sample size of one, but I think about this one a lot.
 - [The Great Filter](https://en.wikipedia.org/wiki/Great_Filter) theory is really, really scary.
-- Will we still use toilet paper in the year 2100.
-- "People are rational thinkers" is the most ludicrous (yet obvious) assumption in economics.
+- Will we still use toilet paper in the year 2100 (I think yes)
 - Recently bought a [SkyWatcher Classic 150P Dobsonian](https://www.skywatcherusa.com/products/sky-watcher-classic-150p) telescope. Bought it used, best $200 I spent in a while. Something about looking up at the sky gives you a sense of being human. Highly recommend. Plus, your neighbors will appreciate it.
 
 
