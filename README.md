@@ -28,7 +28,7 @@ Born in Japan, raised in the US. Thanks to my parents, I can communicate fluentl
 Tokyo is my home now🗼
 
 Before Tokyo, I lived in Niseko Hokkaido, selling software to hotels. I also looked after the company financials.\
-And yes, I love snowsports.
+Currently on my new journey.
 
 ### 🧑‍💻Currently Working on...
 - My own projects, related to computer vision and practical applications, with a sustainability twist.
