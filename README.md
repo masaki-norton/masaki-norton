@@ -3,7 +3,7 @@
 I'm an aspiring Data Scientist, interested in all things AI.\
 Actually, I'm interested in basically anything. I love to learn, above all else!
 
-Looking to ride the Robotics x AI wave. This, in my opinion, is the next big step.
+Looking to ride the Robotics x AI wave.
 
 If you're looking to get in contact, please reach out on [LinkedIn](https://www.linkedin.com/in/masaki-norton/) or via masaki dot norton at gmail.
 <p align="left">
