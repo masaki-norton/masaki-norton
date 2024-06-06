@@ -41,13 +41,13 @@ Currently on my new journey.
 
 
 ## Favorites
-### 🎧 Favorite Podcasts
+### 🎧 Podcasts
 - [My First Million](https://www.mfmpod.com/) - Super cringe name, probably my favorite podcast. Business meets comedy, always provides great laughs and valuable lessons.
 - [Skeptic's Guide to the Universe](https://www.theskepticsguide.org/) - Weekly dose of scientific thinking. Someties a bit over the top, but a fun listen.
 - [Pivot](https://podcasts.voxmedia.com/show/pivot) and [Prof G Pod](https://podcasts.voxmedia.com/show/the-prof-g-pod-with-scott-galloway) - Famous for his wildly incorrect stock predictions, Scott Galloway (Prof G) gives interesting market insights and life lessons.
 - [ML Street Talk](https://podcasts.apple.com/us/podcast/machine-learning-street-talk-mlst/id1510472996) - Most technical pod of the bunch, I try to keep up. Interesting characters as guests every week.
 
-### 😎 Favorite Hobbies
+### 😎 Hobbies
 - Summer: Mountain Biking - Recent spots are Fujimi Panorama and Fujiten.
 - Winter: Snowboarding
 - All year: Exploring, I put >10,000km on my car purchased 1 year ago.
