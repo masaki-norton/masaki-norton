@@ -1,25 +1,4 @@
-### Hi, I'm Masaki! ✌️
-
-I'm an aspiring Data Scientist, interested in all things AI.\
-Actually, I'm interested in basically anything. I love to learn, above all else!
-
-If you're looking to get in contact, please reach out on [LinkedIn](https://www.linkedin.com/in/masaki-norton/) or via masaki dot norton at gmail.
-<p align="left">
-  
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/></a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="50" height="50"/></a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="jupyter" width="50" height="50"/></a>
-  <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sqlite_logo_icon_169724.png" alt="sqlite" width="50" height="50"/></a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://numpy.org/images/logo.svg" alt="numpy" width="50" height="50"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/898px-Pandas_mark.svg.png?20200210000431" alt="pandas" width="50" height="50"/></a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001_2_00x.png" alt="matplotlib" width="50" height="50"/></a>
-  <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://scipy.org/images/logo.svg" alt="scipy" width="50" height="50"/></a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="seaborn" width="50" height="50"/></a>
-  <a href="https://www.statsmodels.org/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-no-text.svg" alt="statsmodels" width="50" height="50"/></a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://vectorseek.com/wp-content/uploads/2023/02/Scikit-learn-Logo-Vector.jpg" alt="scikit-learn" width="50" height="50"/></a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/wiki/opencv/opencv/logo/OpenCV_logo_no_text.png" alt="opencv" width="50" height="50"/></a>
-  <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="streamlit" width="50" height="50"/></a>
-
+I'm just here to make interesting stuff that I would want in my life.
 
 ## About Me
 Born in Japan, raised in the US. Thanks to my parents, I can communicate fluently in both English and Japanese.\
