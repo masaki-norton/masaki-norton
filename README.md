@@ -36,7 +36,6 @@ Currently on my new journey.
 - Behind (almost) every product, there is a marketing person out there bending reality.
 - Where is humans currently, in our "tech-tree"? Where are we heavily developed? Where are we lacking? Compared to "average"? We only have a sample size of one, but I think about this one a lot.
 - [The Great Filter](https://en.wikipedia.org/wiki/Great_Filter) theory is really, really scary.
-- Will we still use toilet paper in the year 2100 (I think yes)
 - Recently bought a [SkyWatcher Classic 150P Dobsonian](https://www.skywatcherusa.com/products/sky-watcher-classic-150p) telescope. Bought it used, best $200 I spent in a while. Something about looking up at the sky gives you a sense of being human. Highly recommend. Plus, your neighbors will appreciate it.
 
 
@@ -46,11 +45,5 @@ Currently on my new journey.
 - [Skeptic's Guide to the Universe](https://www.theskepticsguide.org/) - Weekly dose of scientific thinking. Someties a bit over the top, but a fun listen.
 - [Pivot](https://podcasts.voxmedia.com/show/pivot) and [Prof G Pod](https://podcasts.voxmedia.com/show/the-prof-g-pod-with-scott-galloway) - Famous for his wildly incorrect stock predictions, Scott Galloway (Prof G) gives interesting market insights and life lessons.
 - [ML Street Talk](https://podcasts.apple.com/us/podcast/machine-learning-street-talk-mlst/id1510472996) - Most technical pod of the bunch, I try to keep up. Interesting characters as guests every week.
-
-### 😎 Hobbies
-- Summer: Mountain Biking - Recent spots are Fujimi Panorama and Fujiten.
-- Winter: Snowboarding
-- All year: Exploring, I put >10,000km on my car purchased 1 year ago.
-- DIY, and making my own furniture. Making things is my form of meditation.
 
 
