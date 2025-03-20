@@ -2,14 +2,7 @@ I'm just here to make interesting stuff that I would want in my life.
 
 ## About Me
 Born in Japan, raised in the US. Thanks to my parents, I can communicate fluently in both English and Japanese.\
-Tokyo is my home now🗼
-
-Before Tokyo, I lived in Niseko Hokkaido, selling software to hotels. I also looked after the company financials.\
-Currently on my new journey.
-
-### 🧑‍💻Currently Working on...
-- My own projects, related to computer vision and practical applications, with a sustainability twist.
-- Looking through Kaggle Grand Masters' notebooks and literally copying them, line by line. This is great practice in my opinion. It's the same way you learn piano or copywriting. Learn from the masters first, then create your own.
+Currently in Tokyo🗼
 
 ### 🤔 Some recent thoughts / Questions I ask myself these days (updated periodically)
 - Behind (almost) every product, there is a marketing person out there bending reality.
@@ -17,8 +10,6 @@ Currently on my new journey.
 - [The Great Filter](https://en.wikipedia.org/wiki/Great_Filter) theory is really, really scary.
 - Recently bought a [SkyWatcher Classic 150P Dobsonian](https://www.skywatcherusa.com/products/sky-watcher-classic-150p) telescope. Bought it used, best $200 I spent in a while. Something about looking up at the sky gives you a sense of being human. Highly recommend. Plus, your neighbors will appreciate it.
 
-
-## Favorites
 ### 🎧 Podcasts
 - [My First Million](https://www.mfmpod.com/) - Super cringe name, probably my favorite podcast. Business meets comedy, always provides great laughs and valuable lessons.
 - [Skeptic's Guide to the Universe](https://www.theskepticsguide.org/) - Weekly dose of scientific thinking. Someties a bit over the top, but a fun listen.
